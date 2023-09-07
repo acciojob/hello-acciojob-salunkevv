@@ -4,7 +4,7 @@ main{
 	height, width: 150px;
 	background-color: black;
 }
-  .hello-accio{
+  p.hello-accio{
 	color :white;
 	left-margin:32px;
 	padding:10px;
